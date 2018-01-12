@@ -4,6 +4,8 @@
 
 This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals class. Principles in this project provided an application of Ohm's Law and calculating voltage and current on a standard computer fan using a digital multimeter. The project introduced soldering, circuit design/schematic drawing, component selection, electronic product design, and iteration. This project became a regular tool in the lab used by these students and more to work on projects and safely solder in the lab space.
 
+![Exhasut Fan Use][pic2]
+
 ## Bill of Materials
 
 ### Minimum:
@@ -41,3 +43,4 @@ This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals c
 + [Fritzing](http://www.fritzing.org/)
 
 [pic1]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/IMG_20170925_143346.jpg
+[pic2]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/FanAction.png
