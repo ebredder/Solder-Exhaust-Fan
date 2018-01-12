@@ -1,14 +1,12 @@
 # Solder Exhaust Fan
 
 ![Solder Exhaust Fan][pic1]
-
-*The base model of the solder exhaust fan near completion*
+*Base model of the solder exhaust fan near completion*
 
 This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals class. Principles in this project provided an application of Ohm's Law and calculating voltage and current on a standard computer fan using a digital multimeter. The project introduced soldering, circuit design/schematic drawing, component selection, electronic product design, and iteration. This project became a regular tool in the lab used by these students and more to work on projects and safely solder in the lab space.
 
 ![Exhaust Fan Use][pic2]
-
-*Life is better with less exhaust fumes. The exhaust fan in action...*
+*Life is better with less solder fumes. The exhaust fan in action...*
 
 ## Bill of Materials
 
