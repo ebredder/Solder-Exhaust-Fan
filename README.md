@@ -14,9 +14,9 @@ This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals c
 | :---: | ---: |
 | 300X600mm Sheet of 5mm Plywood | 1 |
 | 120x120mm Carbon Filter (1/4" Thickness) | 1 |
-| 4x 10-24 x 3" Socket Head/Button Head Bolts | 4 |
-| 8x 10-24 Washers | 8 |
-| 4x 10-24 Lock Nuts | 4 |
+| 10-24 x 3" Socket Head/Button Head Bolts | 4 |
+| 10-24 Washers | 8 |
+| 10-24 Lock Nuts | 4 |
 | 120x38mm Brushless Computer Fan | 1 |
 | SPST Slide Switch | 1 |
 | 5mm LEDs | 2 |
