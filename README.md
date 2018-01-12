@@ -27,7 +27,7 @@ This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals c
 
 ### Arduino Control:
 *Minimum List plus*
-+ Ardiuno Nano
++ Arduino Nano
 + 10K Trim Potentiometer
 + IRF510 MOSFET
 + 1N4001 Recitifier Diode
