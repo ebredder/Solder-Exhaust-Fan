@@ -38,9 +38,9 @@ This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals c
 + 2x 1N4148 Switching Diode
 
 ## Design Tools:
-+ [Inkscape](http://www.inkscape.org/" target="_blank)
++ <a href="http://www.inkscape.org/" target="_blank">Inkscape</a>
 
-+ [Fritzing](http://www.fritzing.org/" target="_blank)
++ <a href="http://www.fritzing.org/" target="_blank">Fritzing</a>
 
 [pic1]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/IMG_20170925_143346.jpg
 [pic2]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/FanAction.png
