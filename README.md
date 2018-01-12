@@ -47,5 +47,5 @@ This project was collaboratively developed by the Fall 2017 AC/DC Fundamentals c
 
 + [Fritzing](http://www.fritzing.org/)
 
-[pic1]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/Rear fan.jpg
+[pic1]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/Rearfan.jpg
 [pic2]: https://github.com/ebredder/Solder-Exhaust-Fan/blob/master/Pics/FanAction.png
